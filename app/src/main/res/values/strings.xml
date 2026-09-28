@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">أذكار القفل</string>
+    <string name="accessibility_service_description">تُستخدم هذه الخدمة لتأمين شاشة قفل الأذكار ومنع تخطيها العرضي حتى إتمام الذكر المستهدف.</string>
+    <string name="device_admin_description">تُستخدم هذه الصلاحية لربط حماية قفل الأذكار وفق معايير نظام أندرويد الرسمية لأمان الجهاز.</string>
+    <string name="notification_channel_name">خدمة أذكار القفل الدائمة</string>
+    <string name="notification_channel_desc">إشعار لإبقاء خدمة رصد فتح الشاشة والمؤقتات الدورية نشطة</string>
+    <string name="notification_title">أذكار القفل نشطة</string>
+    <string name="notification_text">رطب لسانك بذكر الله • الحماية الذكية مفعلة</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "أذكار القفل",
+  "description": "تطبيق أذكار القفل لعرض شاشة الأذكار التفاعلية غير القابلة للتخطي عند فتح الهاتف أو بمؤقت ذكي مع إحصائيات شاملة وإدارة مخصصة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
